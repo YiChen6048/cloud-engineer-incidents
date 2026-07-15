@@ -29,7 +29,7 @@ Users reported that the website was responding slowly.
 
 CloudWatch showed EC2 CPU Utilization approaching 100%.
 
-![CloudWatch CPU 100](screenshots/cloudwatch-cpu-100%.png)
+![CloudWatchCPU100](screenshots/cloudwatch-cpu-100%.png)
 
 ---
 
@@ -148,8 +148,8 @@ incident-01-cpu-100/
     ├── scenario-cloudwatch-cpu.png
     ├── investigation-top.png
     ├── investigation-ps-aux.png
-    ├── investigation-top-p-1057.png
-    ├── investigation-top-p-1083.png
+    ├── investigation-top-p-1018.png
+    ├── investigation-top-p-1205.png
     ├── resolution-kill-process.png
     └── verification-top.png
 ```
